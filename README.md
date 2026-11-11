@@ -28,9 +28,7 @@ Till exempel kan ett __HTML__ dokument se ut såhär:
 ## "Välkommen till min webbplats!"
 "Detta är min första webbsida."
 
-_h1_ betyder heading, alltså att texten ska vara större och _p_ betyder att det är normal text.
-
 ## Rätt tecken
-När man kodar är det viktigt att ha med < och > i början. Vid slutet av linjen ska det finnas med </ och >, så att det ska gälla och funka.
+Element öppnas med `<tagg>` och stängs med `</tagg>`.
 
-Hoppas denna information har gett er en enkel insikt av vad HTML kan innebära :smiley:
+:smiley:
