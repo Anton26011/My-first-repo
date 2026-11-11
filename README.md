@@ -5,7 +5,7 @@ Vanliga element:
 - DOCTYPE=Hur dokumentet är byggd
 - Head=innehåller osynlig information
 - html=omsluter hela dokumentet
-- title=
+- title=Bestämmer texten på webbläsarens flik
 - body=Innehåller allt synligt innehåll
 - h1=rubrik
 - p=paragraf
