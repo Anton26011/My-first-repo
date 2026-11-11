@@ -20,3 +20,5 @@ Till exempel kan ett __HTML__ dokument se ut såhär:
 Detta är min första webbsida.
 
 _h1_ betyder heading, alltså att texten ska vara större och _p_ betyder att det är normal text.
+
+När man kodar är det viktigt att ha med < och > i början. Vid slutet av linjen ska det finnas med </ och >, så att det ska gälla och funka.
