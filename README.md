@@ -23,4 +23,4 @@ _h1_ betyder heading, alltså att texten ska vara större och _p_ betyder att de
 
 När man kodar är det viktigt att ha med < och > i början. Vid slutet av linjen ska det finnas med </ och >, så att det ska gälla och funka.
 
-Hoppas denna information har gett er en enkel insikt av vad HTML kan innebära :joy:
+Hoppas denna information har gett er en enkel insikt av vad HTML kan innebära :smiley:
