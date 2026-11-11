@@ -1,7 +1,7 @@
 # HTML för nybörjare
 __HTML__ används för att skapa och strukturera innehåll på webbsidor
 
-Vanliga element:
+## Vanliga element:
 - DOCTYPE=Hur dokumentet är byggd
 - Head=innehåller osynlig information
 - html=omsluter hela dokumentet
@@ -30,6 +30,7 @@ Till exempel kan ett __HTML__ dokument se ut såhär:
 
 _h1_ betyder heading, alltså att texten ska vara större och _p_ betyder att det är normal text.
 
+## Rätt tecken
 När man kodar är det viktigt att ha med < och > i början. Vid slutet av linjen ska det finnas med </ och >, så att det ska gälla och funka.
 
 Hoppas denna information har gett er en enkel insikt av vad HTML kan innebära :smiley:
