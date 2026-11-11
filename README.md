@@ -9,5 +9,12 @@ Tillsammans med det är __HTML__ uppbygd i olika _element_ eller _taggar_, vilke
 
 Det är också viktigt att förstå att __HTML__ är uppbyggd med hjälp av ett _trädstruktur_, alltså att webbdokumentet är uppbyggd _hierarkiskt_ med olika element.
 
+Till exempel kan ett __HTML__ dokument se ut såhär:
+
+```html
+<h1>Välkommen till min webbplats!</h1>
+<p>Detta är min första webbsida.</p>
+```
+
 En viktig grej att förstå hur __HTML__ funkar är relationen mellan olika __branches__.
 Skaparen av projektet har kontroll över det slutgiltiga resultatet men andra intressenter kan också lägga på projektet deras versioner eller lägga till nya funktioner.
