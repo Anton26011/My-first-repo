@@ -2,14 +2,20 @@
 __HTML__ används för att skapa och strukturera innehåll på webbsidor
 
 Vanliga element
+- html=omsluter hela dokumentet
+- body=Innehåller allt synligt innehåll
 - h1=rubrik
 - p=paragraf
 
 Till exempel kan ett __HTML__ dokument se ut såhär:
 
 ```html
+<html>
+    <body>
 <h1>Välkommen till min webbplats!</h1>
 <p>Detta är min första webbsida.</p>
+</body>
+`</html>
 ```
 
 ## "Välkommen till min webbplats!"
