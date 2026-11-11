@@ -15,7 +15,7 @@ Till exempel kan ett __HTML__ dokument se ut såhär:
 <h1>Välkommen till min webbplats!</h1>
 <p>Detta är min första webbsida.</p>
 </body>
-`</html>
+</html>
 ```
 
 ## "Välkommen till min webbplats!"
