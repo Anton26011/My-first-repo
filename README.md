@@ -1,8 +1,11 @@
 # HTML för nybörjare
 __HTML__ används för att skapa och strukturera innehåll på webbsidor
 
-Vanliga element
+Vanliga element:
+- DOCTYPE=Hur dokumentet är byggd
+- Head=innehåller osynlig information
 - html=omsluter hela dokumentet
+- title=
 - body=Innehåller allt synligt innehåll
 - h1=rubrik
 - p=paragraf
@@ -10,10 +13,14 @@ Vanliga element
 Till exempel kan ett __HTML__ dokument se ut såhär:
 
 ```html
+<!DOCTYPE html>
 <html>
-    <body>
-<h1>Välkommen till min webbplats!</h1>
-<p>Detta är min första webbsida.</p>
+<head>
+    <title>Min webbplats</title>
+</head>
+<body>
+    <h1>Välkommen till min webbplats!</h1>
+    <p>Detta är min första webbsida.</p>
 </body>
 </html>
 ```
