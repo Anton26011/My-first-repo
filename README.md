@@ -16,8 +16,8 @@ Till exempel kan ett __HTML__ dokument se ut såhär:
 <p>Detta är min första webbsida.</p>
 ```
 
-## Välkommen till min webbplats!
-Detta är min första webbsida.
+## "Välkommen till min webbplats!"
+"Detta är min första webbsida."
 
 _h1_ betyder heading, alltså att texten ska vara större och _p_ betyder att det är normal text.
 
