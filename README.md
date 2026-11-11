@@ -1,4 +1,4 @@
-# Detta är min första repository
+# Detta är min första repository och förklaring av HTML
 Repository kan även skrivas kort för repo.
 
 __HTML__ är det standard språket som man använder för att skapa och strukturera dokument i World Wide Web (www), alltså det som finns på internet.
