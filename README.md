@@ -4,7 +4,7 @@ __HTML__ används för att skapa och strukturera innehåll på webbsidor
 ## Hur man börjar
 Ladda ner VS Code `https://code.visualstudio.com`
 
-Ladda ner Live server via VS Code 'bild på install'
+Ladda ner Live server via VS Code via sök funktionen "Live Server 'bild på install'
 
 `! 'tab'`
 
