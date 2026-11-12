@@ -17,8 +17,10 @@ Till exempel kan ett __HTML__ dokument se ut såhär:
 
 ```html
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-widthinitial-scale=1.0">
     <title>Min webbplats</title>
 </head>
 <body>
