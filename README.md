@@ -11,6 +11,21 @@ Ladda ner Live server via VS Code via sök funktionen "Live Server"
 ## Början på kodning
 `! 'enter'`
 
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-widthinitial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1></h1>
+    <p></p>
+</body>
+</html>
+```
+
 ## Vanliga element:
 | HTML element | Förklaring |
 | --- | --- |
