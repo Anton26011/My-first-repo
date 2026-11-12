@@ -9,13 +9,15 @@ Ladda ner Live server via VS Code via sök funktionen "Live Server 'bild på ins
 `! 'enter'`
 
 ## Vanliga element:
-- DOCTYPE=Hur dokumentet är byggd
-- Head=innehåller osynlig information
-- html=omsluter hela dokumentet
-- title=Bestämmer texten på webbläsarens flik
-- body=Innehåller allt synligt innehåll
-- h1=rubrik
-- p=paragraf
+| HTML element | Förklaring |
+| --- | --- |
+| DOCTYPE | Hur dokumentet är byggd |
+| Head | innehåller osynlig information |
+| html | omsluter hela dokumentet |
+| title | Bestämmer texten på webbläsarens flik |
+| body | Innehåller allt synligt innehåll |
+| h1 | rubrik |
+| p | paragraf |
 
 Till exempel kan ett __HTML__ dokument se ut såhär:
 
