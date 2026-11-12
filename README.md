@@ -1,6 +1,9 @@
 # HTML för nybörjare
 __HTML__ används för att skapa och strukturera innehåll på webbsidor
 
+## Hur man börjar
+`!`
+
 ## Vanliga element:
 - DOCTYPE=Hur dokumentet är byggd
 - Head=innehåller osynlig information
