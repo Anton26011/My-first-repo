@@ -2,7 +2,7 @@
 __HTML__ används för att skapa och strukturera innehåll på webbsidor
 
 ## Hur man börjar
-`!`
+`! 'tab'`
 
 ## Vanliga element:
 - DOCTYPE=Hur dokumentet är byggd
