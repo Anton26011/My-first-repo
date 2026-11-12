@@ -39,7 +39,7 @@ Till exempel kan ett __HTML__ dokument se ut såhär:
 ## "Välkommen till min webbplats!"
 "Detta är min första webbsida."
 
-[text](blob:vscode-file%3A//vscode-app/254165a1-14d4-4baa-9e32-023fc3db9234)
+
 
 ## Rätt tecken
 Element öppnas med `<tagg>` och stängs med `</tagg>`.
