@@ -36,8 +36,7 @@ Till exempel kan ett __HTML__ dokument se ut såhär:
 </html>
 ```
 
-## "Välkommen till min webbplats!"
-"Detta är min första webbsida."
+## Resultat:
 
 ![Resultat webbsida](bild/bildwebbplats.png)
 
