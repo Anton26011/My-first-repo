@@ -39,7 +39,7 @@ Till exempel kan ett __HTML__ dokument se ut såhär:
 ## "Välkommen till min webbplats!"
 "Detta är min första webbsida."
 
-
+![Resultat webbsida](bild/bildwebbplats.png)
 
 ## Rätt tecken
 Element öppnas med `<tagg>` och stängs med `</tagg>`.
