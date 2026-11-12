@@ -6,7 +6,7 @@ Ladda ner VS Code `https://code.visualstudio.com`
 
 Ladda ner Live server via VS Code via sök funktionen "Live Server 'bild på install'
 
-`! 'tab'`
+`! 'enter'`
 
 ## Vanliga element:
 - DOCTYPE=Hur dokumentet är byggd
