@@ -28,6 +28,7 @@ Ladda ner Live server via VS Code via sök funktionen "Live Server"
 
 ## Vanliga element:
 Kodning är uppdelat i olika element, attributer, taggar och deklarationer som alla uppfyller sina olika krav
+
 | HTML element | Förklaring |
 | --- | --- |
 | DOCTYPE | Hur dokumentet är byggd |
