@@ -36,7 +36,7 @@ Kodning är uppdelat i olika __element__, __attributer__, __taggar__ och __dekla
 | html | omsluter hela dokumentet |
 | title | Bestämmer texten på webbläsarens flik |
 | body | Innehåller allt synligt innehåll |
-| h1 | rubrik |
+| h1-6 | rubriker |
 | p | paragraf |
 
 Till exempel kan ett __HTML__ dokument se ut såhär:
