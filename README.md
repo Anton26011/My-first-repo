@@ -9,9 +9,7 @@ Ladda ner Live server via VS Code via sök funktionen "Live Server"
 ![Resultat webbsida](bild/liveserver.png)
 
 ## Början på kodning
-```htlm
-! 'enter'
-```
+`! 'enter'`
 
 
 ```html
